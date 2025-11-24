@@ -1,4 +1,3 @@
-# 零基础起步？先读这个（10 分钟懂本质）
 # <a id="chinese-version"></a>零基础起步？先读这个（10 分钟懂本质）
 - 语言：中文 | [English](#english-version)
 - 读完本页 -> 再看 `TRAINING_PHILOSOPHY.md`（进阶：疲劳管理、营养、行为系统）。
@@ -30,16 +29,17 @@
   <img src="pic/back.png" alt="背部肌群示意" width="320">
 
 ## 2. **力量训练的核心业务流程（重点，4 步循环）**
-把它想成“工地起重机”或“打怪升级”的循环，更好理解：
-1) 肌肉收缩 = 起重机的钢缆拉动吊臂（跨关节拉骨头，比如深蹲时股四头肌拉大腿骨向上）。  
-2) 加阻力 = 往吊钩上挂重物（杠铃/哑铃/自重），让它“吃力但可控”，重得刚好能拉起来。  
-3) 触发适应 = 系统检测到“这次负荷更重了”（身体感知“这很难”）。  
-4) 休息 + 适应 = 机器停机冷却、升级零件（组间休息几分钟、课间充分恢复）；长期重复，肌肉变粗、神经更会用力，下次同样重量更轻松 -> 再小幅加重/加次数，循环 = 变强。  
+1) 肌肉收缩：跨关节拉动骨头（如深蹲时股四头肌拉大腿骨向上）。  
+2) 加阻力：在动作路径上用杠铃/哑铃/自重，让动作“吃力但可控”，阻力越大，挑战越大。  
+3) 触发适应：身体全力应对，感知到“这很难”。  
+4) 休息 + 适应：组间休息几分钟、课间充分恢复；长期重复让肌肉变粗、神经更会用力，下次同样重量更轻松 -> 再小幅加重/加次数，循环 = 变强。  
 - 所有训练都是在重复这一条生产线；知道目标肌肉的功能和发力方向，就能把“拉线”接对。
-- 其他类比帮助理解：
-  - 数学：像梯度下降，每次小步更新（微调重量/次数）以收敛到更强的“最优解”。
-  - 编程：像写 for 循环并在每次迭代做微小优化，保证不一次性 OOM（不过载），而是稳步迭代。
-  - 金融：像复利，周期性投入可恢复的“负荷”，累积的小幅超负荷 = 长期收益，过度投入则爆仓（过载）。
+- 领域类比（保持科学逻辑不变）：  
+  - 深度学习：像用合适的 learning rate 做小步更新（微调重量/次数），每次都在可恢复范围内，长期逼近更强的模型。  
+  - 数学：如迭代法/梯度下降，控制步长防止发散（过载），稳步收敛到更优解。  
+  - 金融：像复利，周期性投入可承受的“负荷”积累收益；过度加杠杆 = 爆仓（过度训练导致崩溃）。  
+  - 化学：可逆反应需平衡，刺激=正向反应，休息=恢复平衡，刺激过猛体系失稳（过度疲劳）。  
+  - 生物：稳态调节（homeostasis），轻微超出当前稳态触发适应，恢复期完成升级，过强刺激则损伤。
 
 ## 3. 能量从哪来？肌肉的「短期电池」
 - 肌糖原 = 肌肉里的短期电池，存碳水，为高强度收缩供电。
@@ -50,7 +50,7 @@
 
 ## 4. 第一周实践框架（简单可行）
 - 动作选 3 个覆盖主要关节的基础动作：深蹲（腿）、硬拉（背）、推胸（上身）。用空杠或轻重量，先练标准动作。
-- 频率与量：每周 3 天；每动作 3 组；每组 8-12 次；保持「吃力但可完成」。
+- 频率与量：每周 3 天；每动作 3 组；每组 8-12 次；保持“吃力但可完成”。
 - 记录与反馈：简单记下当天“电池感受”（精神/气力）、动作是否顺畅。观察比死守模板更重要。
 
 ## 结束语
@@ -82,16 +82,17 @@ This repo is about “why” and “how” to get strong, not just exercise demo
   <img src="pic/back.png" alt="Back muscles" width="320">
 
 ## 2. **Training Business Loop (Key, 4 steps)**
-Think of a crane lifting loads or “leveling up” in a game:
-1) Contract muscles = cable pulls the boom (cross-joint pull; e.g., squat: quads pull femur up).  
-2) Add resistance = hang weight on the hook (barbell/dumbbell/bodyweight) so it’s hard but controlled—heavy enough to matter.  
-3) Trigger adaptation = system detects “load is heavier now” (body senses “this is hard”).  
-4) Rest + adapt = cool-down and upgrade parts (minutes between sets, full recovery between sessions); over time muscles thicken and neural drive improves, same load feels easier -> add a bit of weight/reps and repeat.  
-- Every program is this loop. When you know the target muscle’s function and pull direction, you’ve wired the “cable” correctly and can train any muscle.
-- Cross-domain analogies:
-  - Math: like gradient descent—tiny step increases (weight/reps) that stay within a recoverable “learning rate.”
-  - Programming: iterative loop with small optimizations each pass; avoid blowing memory/CPU (overtraining) by keeping each iteration bounded.
-  - Finance: compounding—regular, recoverable deposits of load create growth over time; over-leverage = margin call (overload and stall).
+1) Contract muscles to pull bones across joints (e.g., squat: quads pull femur up).  
+2) Add resistance on that path (barbell/dumbbell/bodyweight) so it’s hard but controlled.  
+3) Trigger adaptation: body senses “this is hard.”  
+4) Rest + adapt: minutes between sets, full recovery between sessions; over time muscles thicken, neural drive improves, same load feels easier -> add a bit of weight/reps and repeat.  
+- Every program is this loop. Knowing the target muscle’s function and pull direction “wires the cable” correctly.
+- Cross-domain analogies (science intact):  
+  - Deep learning: use a safe learning rate—small, recoverable updates (weight/reps) that let the model converge without blowing up.  
+  - Math: iterative/gradient methods—bounded step sizes to avoid divergence (overload) while converging to a better solution.  
+  - Finance: compounding—regular, recoverable deposits of load compound over time; over-leverage = margin call (overtraining/stall).  
+  - Chemistry: reversible reactions need equilibrium; stimulus pushes forward, rest restores balance; too aggressive destabilizes the system.  
+  - Biology: homeostasis—slightly above-setpoint stress triggers adaptation; recovery cements the upgrade; excessive stress causes damage.
 
 ## 3. Energy: the short-term battery
 - Muscle glycogen = on-board carb battery for high-intensity contractions.
