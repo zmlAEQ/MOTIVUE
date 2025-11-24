@@ -35,11 +35,11 @@
 4) 休息 + 适应：组间休息几分钟、课间充分恢复；长期重复让肌肉变粗、神经更会用力，下次同样重量更轻松 -> 再小幅加重/加次数，循环 = 变强。  
 - 所有训练都是在重复这一条生产线；知道目标肌肉的功能和发力方向，就能把“拉线”接对。
 - 领域类比（保持科学逻辑不变）：  
-  - 深度学习：像用合适的 learning rate 做小步更新（微调重量/次数），每次都在可恢复范围内，长期逼近更强的模型。  
-  - 数学：如迭代法/梯度下降，控制步长防止发散（过载），稳步收敛到更优解。  
-  - 金融：像复利，周期性投入可承受的“负荷”积累收益；过度加杠杆 = 爆仓（过度训练导致崩溃）。  
-  - 化学：可逆反应需平衡，刺激=正向反应，休息=恢复平衡，刺激过猛体系失稳（过度疲劳）。  
-  - 生物：稳态调节（homeostasis），轻微超出当前稳态触发适应，恢复期完成升级，过强刺激则损伤。
+  - 像用合适的 learning rate 做小步更新（微调重量/次数），每次都在可恢复范围内，长期逼近更强的模型。  
+  - 如迭代法/梯度下降，控制步长防止发散（过载），稳步收敛到更优解。  
+  - 像复利，周期性投入可承受的“负荷”积累收益；过度加杠杆 = 爆仓（过度训练导致崩溃）。  
+  - 可逆反应需平衡，刺激=正向反应，休息=恢复平衡，刺激过猛体系失稳（过度疲劳）。  
+  - 稳态调节（homeostasis），轻微超出当前稳态触发适应，恢复期完成升级，过强刺激则损伤。(这个类比最合适)
 
 ## 3. 能量从哪来？肌肉的「短期电池」
 - 肌糖原 = 肌肉里的短期电池，存碳水，为高强度收缩供电。
@@ -48,13 +48,9 @@
 - 像手机电量：练一组掉 20%，歇一会儿再练能恢复一点；别把电池彻底耗干，否则恢复慢、动作质量下滑。
 - 休息不足会让单次训练的总容量（重量 × 次数）大幅下降，刺激变少；吃得太少或长期不补碳水，训练时易低血糖，练后要及时补能。
 
-## 4. 第一周实践框架（简单可行）
-- 动作选 3 个覆盖主要关节的基础动作：深蹲（腿）、硬拉（背）、推胸（上身）。用空杠或轻重量，先练标准动作。
-- 频率与量：每周 3 天；每动作 3 组；每组 8-12 次；保持“吃力但可完成”。
-- 记录与反馈：简单记下当天“电池感受”（精神/气力）、动作是否顺畅。观察比死守模板更重要。
 
-## 结束语
-你已掌握力量训练的业务流程：肌肉跨关节拉骨头、加阻力、产生挑战、休息适应。下一步阅读 `TRAINING_PHILOSOPHY.md` 获取训练/疲劳/营养/行为的完整细节；想了解赋权模型和行业背景，读 `WHITEPAPER.md`。练一周后再回来微调。
+
+你已掌握力量训练的业务流程：肌肉跨关节拉骨头、加阻力、产生挑战、休息适应。下一步阅读 `TRAINING_PHILOSOPHY.md` 获取训练/疲劳/营养/行为的完整细节；想了解赋权模型和行业背景，读 `WHITEPAPER.md`。。
 
 ---
 
@@ -88,11 +84,11 @@ This repo is about “why” and “how” to get strong, not just exercise demo
 4) Rest + adapt: minutes between sets, full recovery between sessions; over time muscles thicken, neural drive improves, same load feels easier -> add a bit of weight/reps and repeat.  
 - Every program is this loop. Knowing the target muscle’s function and pull direction “wires the cable” correctly.
 - Cross-domain analogies (science intact):  
-  - Deep learning: use a safe learning rate—small, recoverable updates (weight/reps) that let the model converge without blowing up.  
-  - Math: iterative/gradient methods—bounded step sizes to avoid divergence (overload) while converging to a better solution.  
-  - Finance: compounding—regular, recoverable deposits of load compound over time; over-leverage = margin call (overtraining/stall).  
-  - Chemistry: reversible reactions need equilibrium; stimulus pushes forward, rest restores balance; too aggressive destabilizes the system.  
-  - Biology: homeostasis—slightly above-setpoint stress triggers adaptation; recovery cements the upgrade; excessive stress causes damage.
+  -  use a safe learning rate—small, recoverable updates (weight/reps) that let the model converge without blowing up.  
+  - iterative/gradient methods—bounded step sizes to avoid divergence (overload) while converging to a better solution.  
+  - compounding—regular, recoverable deposits of load compound over time; over-leverage = margin call (overtraining/stall).  
+  -  reversible reactions need equilibrium; stimulus pushes forward, rest restores balance; too aggressive destabilizes the system.  
+  -  homeostasis—slightly above-setpoint stress triggers adaptation; recovery cements the upgrade; excessive stress causes damage.(best)
 
 ## 3. Energy: the short-term battery
 - Muscle glycogen = on-board carb battery for high-intensity contractions.
