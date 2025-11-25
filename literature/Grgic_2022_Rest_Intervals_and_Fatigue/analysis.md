@@ -20,3 +20,15 @@
 - 增肌/力量优先：多关节重训用长休，建议 ≥3 分钟（至少 2–3 分钟）以维持每组重量和次数，避免把后续组做成“垃圾容量”。
 - 短休主要带来代谢泵感，但神经驱动力掉得快，速度/重量下滑、技术风险上升；泵感≠有效机械张力。
 - 若同重量速度或条数掉 20–25%，立即拉长休息或结束该动作；高总量用频率拆分，不要一次性堆完。
+
+---
+
+## English Summary
+- Review of inter-set rest for trained lifters: heavy/multi-joint lifts benefit from ≥2–3 min to maintain reps/load and reduce neural/cardiovascular strain; isolation/light lifts can use 60–120 s, but longer rest often preserves quality and volume load.
+- Short rest (≤60 s) drives metabolic stress but causes later-set drop-offs → garbage volume and lower mechanical tension.
+- Practical cues: if velocity/reps fall 20–25% at the same load, extend rest; heavy compounds 2.5–4 min, isolations 60–120 s (extend if output continues to slide).
+
+## English Takeaways
+- For hypertrophy/strength, prioritize long rest on heavy compounds; short rest is mainly pump/ metabolic with higher fatigue cost.
+- High neural-demand work: avoid stacking volume with short rest—protect technique and recovery.
+- Isolation pump work can use short rest, but when output declines, add rest or cut sets; split high weekly volume across more sessions.

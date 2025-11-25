@@ -18,3 +18,15 @@
 - 元分析支持“多组更好”：≥10 组/周/肌群通常优于更低组数，每多 1 组有小幅收益。
 - 证据覆盖到中高量，超高量未充分验证；想加量必须分频、保质量，防止后半程变垃圾容量。
 - 质量优先：当输出下降或疲劳飙升时，延长休息/减组/降载，比盲目堆量更能促进有效刺激。
+
+---
+
+## English Summary
+- 15 studies, 34 groups; weekly sets per muscle as predictor of hypertrophy (meta-regression).
+- Each +1 set/week/muscle → ES +0.023 (~0.37% gain); high vs low within studies ES diff ≈0.241 (~3.9% gain).
+- Bins <5, 5–9, ≥10 sets: ≥10 showed best trend (P≈0.074); evidence spans low→mid-high volumes, ultra-high volume not well tested.
+
+## English Takeaways
+- Graded dose-response: more weekly sets generally yield more growth up to mid-high volumes (≥10 sets/week/muscle).
+- Beyond that, split frequency and guard quality; avoid single-session volume dumps turning into garbage volume.
+- Monitor output/fatigue; if performance drops, extend rest, trim sets, or deload instead of forcing volume.

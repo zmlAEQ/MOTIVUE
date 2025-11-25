@@ -12,3 +12,15 @@ DOI: 10.1080/02640414.2016.1210197
 - 存在“递增型”剂量-效应：更多周总组数通常带来更大肥大，但样本主要覆盖至 10+ 组/周，超高量区间证据有限。
 - 实践上，可将 10+ 组/周/肌群视为中高量参考，结合频率拆分与恢复监控，避免一次性堆量导致质量下滑。
 - 暂未找到开放获取 PDF，请按 DOI 检索期刊获取全文。
+
+---
+
+English Summary
+- Systematic review + meta-analysis (15 studies, 34 groups) on weekly sets per muscle vs hypertrophy.
+- Each +1 set/week/muscle → ES +0.023 (~0.37% gain); higher vs lower volumes differ by ES ≈0.241 (~3.9%).
+- Bins <5, 5–9, ≥10 sets: ≥10 shows best trend (P≈0.074); evidence up to mid-high volumes, ultra-high not well tested.
+
+English Conclusions
+- Graded dose-response: more weekly sets generally yield more growth up to ~10+ sets/week; evidence sparse beyond that.
+- Treat 10+ sets/week/muscle as mid-high reference; split frequency and monitor recovery to avoid single-session quality drop.
+- No open-access PDF located; fetch via DOI 10.1080/02640414.2016.1210197.

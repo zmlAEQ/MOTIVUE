@@ -13,3 +13,16 @@ Grgic et al., 2022, Strength & Conditioning Journal
 - 重/多关节动作短休容易技术变形，因皮层/脊髓抑制加重、交感神经负荷高，受伤风险上升。
 - 主观上会更喘、更顶心率血压，恢复反而更慢；用长休能在同样时间里完成更多“有效组”而不是累出来的废组。（重点）
 - 实操提示：重/多关节休 2.5–4 分钟（至少 2–3 分钟）；若发现同一重量的速度或条数掉了 20–25%，就拉长休息。孤立动作 60–120 秒即可，若输出继续下滑，同样加休息或减组。
+
+---
+
+English Summary
+- Compares short (≤60–90 s) vs long (≥120–180 s) rests on strength/hypertrophy/fatigue in trained lifters.
+- Multi-joint/high-load: long rest keeps weight/reps up; short rest drives drop-offs. Isolation/light: short rest for pump is okay, but longer rest improves tension and volume.
+- Long rest feels less taxing and sustains set quality; short rest mainly delivers metabolic burn.
+- Conclusion: for strength/hypertrophy, use long rest (≥3 min) on big lifts; short rest is mostly metabolic stress and can degrade later-set quality.
+
+Neural Load Note
+- Short rest tanks neural drive—high-threshold MUs fade, speed/weight drop, technique risk rises.
+- Subjectively more breathless/HR/BP spikes; recovery slower. Long rest lets you do more “effective sets” instead of fatigued junk.
+- Practice: big lifts rest 2.5–4 min (≥2–3 min). If velocity/reps fall 20–25% at same load, extend rest. Isolation 60–120 s; if output keeps sliding, add rest or cut sets.

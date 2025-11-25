@@ -24,6 +24,8 @@ Here you will find my white paper and training philosophy—mostly my own thinki
 
 - `TRAINING_PHILOSOPHY.md`  
   Training Philosophy & First-Principles Fitness Guide – a structured explanation of my approach to training, nutrition, and behavior, including hypertrophy principles, fatigue management, macro-based nutrition, and the behavior systems behind sustainable change (English & Chinese, bilingual).
+- `literature/`  
+  Curated paper notes on hypertrophy, fatigue, rest intervals, dose–response volume, and progressive overload (English + Chinese in the same files for easy switching). PDFs or links included where available.
 
 - External project: [`Motivue-Backend`](https://github.com/zmlAEQ/Motivue-Backend)  
   A backend I built to operationalise this philosophy in code. It includes:
@@ -55,6 +57,8 @@ As this project evolves, I may add tools, templates, or open-source planning uti
 
 - `TRAINING_PHILOSOPHY.md`  
   《训练理念与第一性原理健身指南》——系统讲解我的训练、饮食与行为框架，包括肌肥大原理、疲劳管理、宏量营养与自由饮食、以及如何把这些变成可持续的生活方式（中英文双语）。
+- `literature/`  
+  肌肥大、疲劳管理、休息间隔、剂量-反应、渐进超负荷等文献笔记，英中双语写在同一文件里，方便切换；部分含 PDF 或链接。
 
 - 外部项目：[`Motivue-Backend`](https://github.com/zmlAEQ/Motivue-Backend)  
   我自己开发的一套后端，用来把这里的理念真正落地到“每天怎么练、怎么恢复”的层面，主要包含：  

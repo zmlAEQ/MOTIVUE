@@ -23,4 +23,16 @@
 # 本文 takeaway
 - 渐进超负荷是底层原则；近力竭和保持余量都能增肌增力，关键是“递进+可恢复”。
 - 选择超负荷手段时匹配疲劳成本：强度、体积、张力、时间四个维度组合使用，而非单一堆量。
-- 周期计划的目标：让刺激持续上升，但始终保持高质量输出，避免把超负荷变成过度疲劳。***
+- 周期计划的目标：让刺激持续上升，但始终保持高质量输出，避免把超负荷变成过度疲劳。
+
+---
+
+## English Summary
+- Trained adults randomized to low-RIR (0–1, near failure) vs high-RIR (4–6) for squat/bench/deadlift twice weekly, 5 weeks + deload. Volume matched.
+- Strength and VL CSA improved over time in both groups; no between-group differences. Near-failure group showed increased low-threshold motor unit firing (neural adaptation).
+- Indicates near-failure is a viable overload tool but not mandatory when volume is matched.
+
+## English Takeaways
+- Progressive overload is foundational; near-failure and higher-RIR approaches both work if progression is present and recoverable.
+- Choose overload methods based on fatigue cost: load/RIR (neural), volume/frequency (peripheral), tension quality/ROM (per-set stimulus), and time-course (block progression + deloads).
+- Keep quality high: when velocity/reps dive, extend rest, reduce volume, or deload rather than forcing more fatigue.

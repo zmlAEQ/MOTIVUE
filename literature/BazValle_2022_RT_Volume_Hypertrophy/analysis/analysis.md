@@ -33,3 +33,17 @@
 - 肱三头若为短板，可用 >20 组/周，但确保分散在 2–3 天并拉长休息。  
 - 不再用“快/慢肌”决定容量；以动作拉伸位与复合动作重叠度来调容量。  
 - 监控输出（速度/重复下降幅度）与主观疲劳，必要时降量或设降载周。
+
+---
+
+## English Summary
+- 7 RCTs (6 in meta-analysis), trained men (18–35 y). Weekly sets grouped as low <12, moderate 12–20, high >20.
+- Quads & biceps: no significant difference between moderate vs high volume (p≈0.19, 0.59). Triceps: high volume >20 sets/week significantly better than moderate (p≈0.01).
+- Practical range: 12–20 sets/week per muscle works for most; push triceps beyond 20 only with frequency split and recovery management.
+- Stretch factor & overlap rules: high-stretch moves need moderate volume; muscles heavily hit by compounds (e.g., biceps) can stay moderate; ones under-stimulated in compounds (e.g., triceps long head, side delts) can use higher volume.
+
+## English Takeaways
+- Most muscles: 12–20 quality sets/week; split sessions to avoid garbage volume.
+- Triceps lagging? 20+ sets/week but spread across 2–3 days with longer rests.
+- Drop fiber-type-driven volume ideas; use stretch exposure and compound overlap to set volumes.
+- Track velocity/rep drop-off and fatigue; deload or reduce volume when quality falls.
