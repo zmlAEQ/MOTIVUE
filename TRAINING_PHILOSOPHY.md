@@ -150,6 +150,7 @@ On top of that, we add **progressive overload**: over weeks and months, somethin
 You do *not* need to hit a new extreme every session. The goal is simply that, over time, your training is **a bit harder than before, but still recoverable**.
 
 **Takeaway:** Choose challenging-but-controlled weights and volume, and let them progress slowly over time instead of chasing daily personal records.
+(Evidence: near-failure vs 留 4–6 RIR 都能实现渐进超负荷；见 literature/Ruple_2023_Progressive_Overload_RIR/analysis.md)
 
 #### 4.1.3 Fatigue Management & Recovery Windows
 
@@ -175,6 +176,7 @@ Good hypertrophy training always balances:
 This balance is where most people fail—not because they do not work hard enough, but because they never allow fatigue to fall, so performance and growth both stall.
 
 **Takeaway:** Training only works if you are fresh enough to express strength—manage fatigue so performance, safety, and progress can all stay high.
+(Evidence: 组间休息缩短会让输出掉速、变垃圾容量；见 literature/Grgic_2022_Rest_Intervals_and_Fatigue/analysis.md)
 
 #### 4.1.4 Dose–Response: From Minimum Effective to Maximum Recoverable
 
@@ -187,6 +189,7 @@ One useful way to think about training is as a **dose–response curve**:
 For hypertrophy, we are always trying to live in that middle zone: **as much high-quality work as you can recover from consistently**, not as much work as you can survive once.
 
 **Takeaway:** Aim for the middle zone where you do as much quality work as you can consistently recover from, not the maximum workload you can survive once.
+(Evidence: 量效曲线呈平台/递减；见 literature/BazValle_2022_RT_Volume_Hypertrophy/analysis/analysis.md 与 literature/Schoenfeld_2017_Dose_Response_Volume/analysis.md)
 
 ---
 
